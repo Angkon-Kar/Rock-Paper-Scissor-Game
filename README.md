@@ -99,17 +99,6 @@ rps_battle.exe
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Cross-platform screen clearing (Linux/macOS support)
-- [ ] Multiple difficulty levels
-- [ ] Player name input
-- [ ] Score tracking across sessions
-- [ ] Sound effects via system beep
-- [ ] More enemy types / stages
-
----
-
 ## 👨‍💻 Author
 
 Built with passion for C++ and retro terminal aesthetics.  
